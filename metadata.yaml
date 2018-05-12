@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35057
     wikipedia: http://en.wikipedia.org/wiki/Richard_Mead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32171#A-Discourse-on-the-Plague
 gutenberg_issued: '2010-04-28'
 gutenberg_type: Text
 identifiers:
